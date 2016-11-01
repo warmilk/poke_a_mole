@@ -1,0 +1,27 @@
+C:\Users\Shinelon\AppData\Local\Temporary Projects\poke a mole\obj\x86\Debug\poke_a_mole.Form1.resources
+C:\Users\Shinelon\AppData\Local\Temporary Projects\poke a mole\obj\x86\Debug\poke_a_mole.Properties.Resources.resources
+C:\Users\Shinelon\AppData\Local\Temporary Projects\poke a mole\obj\x86\Debug\poke a mole.csproj.GenerateResource.Cache
+C:\Users\Shinelon\AppData\Local\Temporary Projects\poke a mole\bin\Debug\poke a mole.exe
+C:\Users\Shinelon\AppData\Local\Temporary Projects\poke a mole\bin\Debug\poke a mole.pdb
+C:\Users\Shinelon\AppData\Local\Temporary Projects\poke a mole\obj\x86\Debug\poke a mole.exe
+C:\Users\Shinelon\AppData\Local\Temporary Projects\poke a mole\obj\x86\Debug\poke a mole.pdb
+E:\visual studio项目\VS2010\poke a mole\poke a mole\obj\x86\Debug\poke a mole.exe
+E:\visual studio项目\VS2010\poke a mole\poke a mole\obj\x86\Debug\poke a mole.pdb
+E:\visual studio项目\VS2010\poke a mole\poke a mole\bin\Debug\poke a mole.exe
+E:\visual studio项目\VS2010\poke a mole\poke a mole\bin\Debug\poke a mole.pdb
+E:\visual studio项目\VS2010\poke a mole\poke a mole\obj\x86\Debug\poke_a_mole.Form1.resources
+E:\visual studio项目\VS2010\poke a mole\poke a mole\obj\x86\Debug\poke_a_mole.Properties.Resources.resources
+E:\visual studio项目\VS2010\poke a mole\poke a mole\obj\x86\Debug\poke a mole.csproj.GenerateResource.Cache
+E:\visual studio项目\VS2010\poke a mole\poke a mole\obj\x86\Debug\poke a mole.csprojResolveAssemblyReference.cache
+E:\visual studio项目\VS2010\poke a mole\poke a mole\bin\Debug\poke a mole.exe.config
+E:\visual studio项目\VS2010\poke a mole\poke a mole\obj\x86\Debug\poke_a_mole.f2.resources
+E:\痴线个代码\打地鼠终极版啦\poke a mole\poke a mole\bin\Debug\poke a mole.exe.config
+E:\痴线个代码\打地鼠终极版啦\poke a mole\poke a mole\obj\x86\Debug\poke a mole.exe
+E:\痴线个代码\打地鼠终极版啦\poke a mole\poke a mole\obj\x86\Debug\poke a mole.pdb
+E:\痴线个代码\打地鼠终极版啦\poke a mole\poke a mole\bin\Debug\poke a mole.exe
+E:\痴线个代码\打地鼠终极版啦\poke a mole\poke a mole\bin\Debug\poke a mole.pdb
+E:\痴线个代码\打地鼠终极版啦\poke a mole\poke a mole\obj\x86\Debug\poke a mole.csprojResolveAssemblyReference.cache
+E:\痴线个代码\打地鼠终极版啦\poke a mole\poke a mole\obj\x86\Debug\poke_a_mole.f2.resources
+E:\痴线个代码\打地鼠终极版啦\poke a mole\poke a mole\obj\x86\Debug\poke_a_mole.Form1.resources
+E:\痴线个代码\打地鼠终极版啦\poke a mole\poke a mole\obj\x86\Debug\poke_a_mole.Properties.Resources.resources
+E:\痴线个代码\打地鼠终极版啦\poke a mole\poke a mole\obj\x86\Debug\poke a mole.csproj.GenerateResource.Cache
